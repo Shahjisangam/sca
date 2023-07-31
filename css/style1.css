@@ -1,0 +1,112 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+/* topnav */
+
+#top_nav{
+    background-color:orange;
+}
+
+#top_nav div img{
+    height: 50px;
+}
+
+/* TOP_NAV END */
+
+/* SEC-1 STARTED */
+@media only screen and (max-width:500px){
+
+    .stcraul_font{
+        font-size: 12px;
+        padding-bottom: 0px;
+    }
+}
+
+
+/*sec-1*/
+
+/* sec2 strated */
+
+#col_sec2{
+    background-color: white;
+}
+
+/* card_section  */
+
+.card_mar{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#card_col{
+    background-color: white;
+}
+.card_p_col{
+    background-color:green;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 20px;
+    color: aliceblue;
+}
+.card-body{
+    background-color: blueviolet;
+}
+
+/* address-section */
+
+#add{
+    margin: 50px;
+}
+
+/* footer section  */
+
+.ft_sec{
+    margin-top: 20px;
+    background-color: rgb(19, 136, 19);
+}
+#ft_col{
+    background-color:rgb(19, 136, 19) ;
+}
+
+
+
+
+/* ABout-PAge  */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+}
+
+/* gallery_section */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.lanscap_img:hover{
+    
+}
+
+.lanscap_img{
+    
+    margin: 3px;
+    border: 2px solid black;
+}
+
+@media only screen and (max-width:400px){
+    img{
+        height: 200px;
+    }
+}
